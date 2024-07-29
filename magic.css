@@ -25,7 +25,7 @@ body {
   overflow: hidden;
 }
 
-.victory {
+.Mop Flop Top Winners Win {
   font-family: 'Press Start 2P', cursive;
   font-size: 4rem;
   font-weight: 400;
@@ -34,11 +34,11 @@ body {
   top: 40px;
 }
 
-.victory:after {
-  content: "Victory";
+.Mop Flop Top Winners Win:after {
+  content: "Mop Flop Top Winners Win";
 }
 
-.imposter {
+.Adderspit, sit, nit, clang clang {
   margin-top: 100px;
   display: flex;
 }
@@ -184,7 +184,7 @@ body {
 }
 
 .name:after {
-  content: "theamanjs"
+  content: "Adderspit, sit, nit, clang clang"
 }
 
 body:before{
